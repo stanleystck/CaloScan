@@ -1,0 +1,7 @@
+{
+  "name": "CaloScan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
